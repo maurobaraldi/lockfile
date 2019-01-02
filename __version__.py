@@ -1,0 +1,6 @@
+__title__ = 'lockfile'
+__description__ = 'File based locking handler for resources.'
+__version__ = '0.0.1'
+__author__ = 'Mauro Baraldi'
+__author_email__ = 'mauro.baraldi@gmail.com'
+__license__ = 'MIT'
